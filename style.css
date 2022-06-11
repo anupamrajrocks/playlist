@@ -34,7 +34,7 @@ body {
 
 .nav-link {
   color: rgb(212, 208, 208);
-  font-size: 30px;
+  font-size: 20px;
 }
 
 nav-link:hover:not(.active) {
